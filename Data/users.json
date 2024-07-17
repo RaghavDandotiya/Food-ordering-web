@@ -1,0 +1,29 @@
+[
+    {
+        "username": "Raofin",
+        "email": "hello@raofin.net",
+        "password": "qwert",
+        "phone": "0123456789",
+        "gender": "Male",
+        "joined": "12-03-2022, 03:09 AM",
+        "id": 1
+    },
+    {
+        "username": "user",
+        "email": "user@email.com",
+        "password": "1234",
+        "phone": "01234569",
+        "gender": "Male",
+        "joined": "12-03-2022, 03:12 AM",
+        "id": 2
+    },
+    {
+        "username": "raghav",
+        "email": "raghav@gmail.com",
+        "password": "1234",
+        "phone": "0910784599",
+        "gender": "Male",
+        "joined": "17-07-2024, 11:15 AM",
+        "id": 3
+    }
+]
